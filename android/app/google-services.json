@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1055081842500",
+    "project_id": "chat--app-b3ef8",
+    "storage_bucket": "chat--app-b3ef8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1055081842500:android:7caf339f55f88401153911",
+        "android_client_info": {
+          "package_name": "com.example.sivven_pro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqikcb9dOdyfW9wOr7Afv4r0FS8_oCMNM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
